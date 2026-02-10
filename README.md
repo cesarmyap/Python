@@ -124,7 +124,7 @@ This project is for educational purposes only.
 The focus is on:
 •	Learning logic and structure
 •	Understanding how systems work
-•	Practicing clean and readable C# code
+•	Practicing clean and readable Python code
 It is not intended for production use.
 ________________________________________
 Author
