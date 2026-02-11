@@ -10,7 +10,6 @@ demonstrating how common ERP modules interact with each other using a lightweigh
 
 This system is for practice and reference purposes only and is not production-ready.
 
-
 Key Features Implemented
 
 1. Clients Management
